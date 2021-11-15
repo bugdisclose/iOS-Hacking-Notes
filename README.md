@@ -92,6 +92,6 @@ Whenever we download iOS app from apple store that are by default encrypted (not
 
 #### Jailbreak Protection Bypass Using Objection
 
-	1. objection --gadget "com.olaelectric.Companion" explore -s "ios jailbreak disable"
-	2. objection --gadget "com.olaelectric.Companion" explore
+	1. objection --gadget "com.package.name" explore -s "ios jailbreak disable"
+	2. objection --gadget "com.package.name" explore
     		1. ios jailbreak disable
