@@ -30,7 +30,7 @@
 * [Decrypting iOS app Downloaded from App Store](#decrypt-ios-application-downloaded-from-app-store)
 * [Jailbreak Protection Bypass Using Objection](#jailbreak-protection-bypass-using-objection)
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 #### Jailbreak
 Jailbreak iphone Device - use [checkra1n](https://checkra.in/)
