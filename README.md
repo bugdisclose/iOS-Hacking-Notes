@@ -8,12 +8,12 @@ Jailbreak iphone Device - use [checkra1n](https://checkra.in/)
 Check if you're able to open Cydia : if yes then congrats device is jailbroken.😉
 
 Install below tweak packages from Cydia store:
-1. OpenSSH
-2. SSL Kill Switch 2
-3. Flex 3
-4. Darwin CC tools
-5. Filza file manager
-6. Frida - System & iphone
+1. OpenSSH - System & Phone
+2. SSL Kill Switch 2 - Phone
+3. Flex 3 - Phone
+4. Darwin CC tools - Phone
+5. Filza file manager - Phone
+6. Frida - System & Phone
 7. Objection - System
 
 #### Open SSH : 
