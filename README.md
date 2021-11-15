@@ -8,11 +8,11 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <a href="https://twitter.com/InfosecTweet">
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bugdisclose.iOS-Hacking-Notes&left_color=655BE1&right_color=green" />
+  <img align="right" target="_blank" src="https://visitor-badge.glitch.me/badge?page_id=bugdisclose.iOS-Hacking-Notes&left_color=655BE1&right_color=green" />
 </a>
 
 <a href="https://twitter.com/InfosecTweet">
-  <img align="right" alt="InfosecTweet's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="right" alt="InfosecTweet's Twitter" target="_blank" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 ## Table of Content
