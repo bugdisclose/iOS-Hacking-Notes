@@ -1,6 +1,8 @@
 <H1 align="center"> 🥷 iOS Hacking Notes [App]</h1>
 <p align="center"> A repository where I dump my iOS app hacking notes📚 - Recommended for beginners </p>
 
+<p align="center"> Don't forget to Star 🌟 the repository and Follow for updates🙂  </p>
+
 ---
 
 ## Table of Content
