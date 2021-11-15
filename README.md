@@ -3,6 +3,10 @@
 
 <p align="center"> Don't forget to Star 🌟 the repository and Follow for updates🙂  </p>
 
+<a href="https://twitter.com/InfosecTweet">
+  <img align="left" alt="InfosecTweet's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 ---
 
 ## Table of Content
