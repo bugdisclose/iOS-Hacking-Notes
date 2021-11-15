@@ -1,4 +1,4 @@
-# iOS-Hacking-Notes
+# iOS-Hacking-Notes [App]
 One repository where I dump my iOS app hacking notes
 
 ---
