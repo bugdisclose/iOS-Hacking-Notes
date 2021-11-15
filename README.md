@@ -1,5 +1,5 @@
-# iOS Hacking Notes [App]
-One repository where I dump my iOS app hacking notes
+# 🥷 iOS Hacking Notes [App]
+A repository where I dump my iOS app hacking notes📚
 
 ---
 
