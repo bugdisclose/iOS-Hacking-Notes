@@ -107,7 +107,7 @@ Configure proxy with burp suite and install SSL kill switch 2
 2. navigate to window > device and simulators > open console > then start activities to see logs
 
 #### Sensitive Data in pasteboard
-1. Open objection ```objection —-gadget com.olaelectric.Companion explore```
+1. Open objection ```objection —-gadget com.package.name explore```
 2. type objection terminal ```ios pasteboard monitor``` >> copy anything
 
 #### WebView XSS 
