@@ -13,7 +13,7 @@
   <img align="right" alt="InfosecTweet's Twitter" target="_blank" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-## Table of Content
+## 📖Table of Content
 * [Jailbreak](#Jailbreak)
 * [SSH Setup](#open-ssh-)
 * [Frida Setup](#frida-setup)
