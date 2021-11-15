@@ -70,7 +70,7 @@ Configure proxy with burp suite and install SSL kill switch 2
 1. perform all the actions available in app
 2. login through SSH in iOS
 3. ```cd /var/mobile/Containers/Data/Application/``` list all the UUIDs available
-4. ```find -type d -name cst.securestorev1``` you’ll get the location of application directory
+4. ```find -type d -name cst.package``` you’ll get the location of application directory
 5. Explore local storage
 6. get files in local system using sftp >> sftp root@iphone_wifi >> alpine default password and then ```get /filepath/hello.db``` it will pull file in local
 7. basic SQlite3 command ```sqlite3 hello.db``` >> .tables >> ```select * from tablename ;```
