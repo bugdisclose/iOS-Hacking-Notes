@@ -5,6 +5,22 @@ A repository where I dump my iOS app hacking notes📚
 
 ## Table of Content
 * [Jailbreak](#Jailbreak)
+* [SSH Setup](#open-ssh-)
+* [Frida Setup](#frida-setup)
+* [Objection Setup](#objection)
+* [Installing Application from Untrusted Source](#installing-vulnerable-application-from-untrusted-source)
+* [Basic iOS Security Testing](#basics-ios-app-security-testing)
+* [Traffic Analysis iOS](#traffic-analysis-ios)
+* [Local Storage Analysis](#local-storage-analyis)
+* [Dumping Secrets From Keychain](#dumping-secrets-from-keychain)
+* [Authorization Vulnerability](#authorization-vulnerability)
+* [Insecure Loggin](#insecure-logging)
+* [Sensitive Data in Pasteboard](#sensitive-data-in-pasteboard)
+* [Webview XSS](#webview-xss)
+* [Decrypting iOS app Downloaded from App Store](#decrypt-ios-application-downloaded-from-app-store)
+* [Jailbreak Protection Bypass Using Objection](#jailbreak-protection-bypass-using-objection)
+
+---
 
 #### Jailbreak
 Jailbreak iphone Device - use [checkra1n](https://checkra.in/)
