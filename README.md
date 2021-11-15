@@ -1,15 +1,19 @@
 <H1 align="center"> 🥷 iOS Hacking Notes [App]</h1>
 <p align="center"> A repository where I dump my iOS app hacking notes📚 - Recommended for beginners </p>
-
 <p align="center"> Don't forget to Star 🌟 the repository and Follow for updates🙂  </p>
 
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 <a href="https://twitter.com/InfosecTweet">
-  <img align="left" alt="InfosecTweet's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bugdisclose.iOS-Hacking-Notes&left_color=655BE1&right_color=green" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bugdisclose.iOS-Hacking-Notes&left_color=655BE1&right_color=green)
-
----
+<a href="https://twitter.com/InfosecTweet">
+  <img align="right" alt="InfosecTweet's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 ## Table of Content
 * [Jailbreak](#Jailbreak)
